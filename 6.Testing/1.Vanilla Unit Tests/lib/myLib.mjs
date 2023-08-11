@@ -1,0 +1,1 @@
+export const add = (numb, numb2) => numb * numb2;
